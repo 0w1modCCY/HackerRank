@@ -1,4 +1,5 @@
 # Hacker Rank
+*Author: [Victor Moreno Arribas](https://www.linkedin.com/in/vmorenoa/)*
 
 1. [Mathematics](mathematics/README.md)
 2. [Functional Programming](functional-programming/README.md)
