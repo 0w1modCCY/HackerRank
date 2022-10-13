@@ -1,5 +1,4 @@
 # Hacker Rank
-*Author: [Victor Moreno](www.linkedin.com/in/vmorenoa)*
 
 ## Python
 1. [Introduction](introduction/README.md)
@@ -15,7 +14,7 @@
 11. [Built-Ins](python/built-ins/README.md)
 12. [Python Functionals](python/python-functionals/README.md)
 13. [Regex and Parsing](python/regex-and-parsing/README.md)
-14. [XML](python/xml/README.md)
+14. [XML](python/xml/README.md)3
 15. [Closures and Decorators](python/closures-and-decorators/README.md)
 16. [Numpy](python/numpy/README.md)
 17. [Debugging](python/debugging/README.md)
