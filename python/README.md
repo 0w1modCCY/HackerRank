@@ -2,12 +2,12 @@
 *Author: [Victor Moreno](www.linkedin.com/in/vmorenoa)*
 
 ## Python
-1. [Introduction](python/introduction/README.md)
-2. [Basic Data Types](python/basic-data-types/README.md)
-3. [Strings](python/strings/README.md)
-4. [Sets](python/sets/README.md)
-5. [Math](python/math/README.md)
-6. [Itertools](python/itertools/README.md)
+1. [Introduction](introduction/README.md)
+2. [Basic Data Types](basic-data-types/README.md)
+3. [Strings](strings/README.md)
+4. [Sets](sets/README.md)
+5. [Math](math/README.md)
+6. [Itertools](itertools/README.md)
 7. [Collections](python/collections/README.md)
 8. [Date and Time](python/date-and-time/README.md)
 9. [Errors and Exceptions](python/errors-and-exceptions/README.md)
