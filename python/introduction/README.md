@@ -1,6 +1,6 @@
 # Python
 ## Introduction
-*Python > [Introduction](www.hackerrank.com/challenges/python-introduction)*
+*Python > [Introduction](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)*
 
 1. [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)
 2. [Python If-Else](https://www.hackerrank.com/challenges/py-if-else)
